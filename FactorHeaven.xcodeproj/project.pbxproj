@@ -12,6 +12,7 @@
 		D71E57191EB0E5BF00054AEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D71E57171EB0E5BF00054AEA /* Main.storyboard */; };
 		D71E571B1EB0E5BF00054AEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D71E571A1EB0E5BF00054AEA /* Assets.xcassets */; };
 		D71E571E1EB0E5BF00054AEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D71E571C1EB0E5BF00054AEA /* LaunchScreen.storyboard */; };
+		D71E57261EB0E60400054AEA /* PrimeFactorizationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D71E57251EB0E60400054AEA /* PrimeFactorizationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D71E571A1EB0E5BF00054AEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D71E571D1EB0E5BF00054AEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D71E571F1EB0E5BF00054AEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D71E57251EB0E60400054AEA /* PrimeFactorizationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrimeFactorizationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D71E57131EB0E5BF00054AEA /* AppDelegate.swift */,
 				D71E57151EB0E5BF00054AEA /* ViewController.swift */,
 				D71E57171EB0E5BF00054AEA /* Main.storyboard */,
+				D71E57251EB0E60400054AEA /* PrimeFactorizationViewController.swift */,
 				D71E571A1EB0E5BF00054AEA /* Assets.xcassets */,
 				D71E571C1EB0E5BF00054AEA /* LaunchScreen.storyboard */,
 				D71E571F1EB0E5BF00054AEA /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D71E57261EB0E60400054AEA /* PrimeFactorizationViewController.swift in Sources */,
 				D71E57161EB0E5BF00054AEA /* ViewController.swift in Sources */,
 				D71E57141EB0E5BF00054AEA /* AppDelegate.swift in Sources */,
 			);
